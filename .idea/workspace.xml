@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39d0ec57-334e-4792-9e8a-394e7f1bb656" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/dl_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/28A991B4-3FF5-E163-632B-B87BEEF21425.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/4B4F2B07-151E-4B2D-48C2-FA66DAF33CD8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/B34066D5-4407-33F9-95BE-2D69C57568C6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/CEF5EB1F-334B-8781-3F30-903483D422FB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/D952ED4A-DE72-0595-386F-9E1E108B3A85.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/entity/seg_0/F224FEF3-BD64-BB9A-6D57-CCE33A5E5282.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/relation/seg_0/6DAB6DB0-AB94-E09F-A521-9E2BC0CE4917.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/relation/seg_0/A2E4242A-A3C1-A52B-237C-CEF4B201D33C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/relation/seg_0/BBAC2A83-4C4F-EB68-7F53-C7A463A04769.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/relation/seg_0/C4104079-B4B5-A333-8D20-81C539DD4B16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/Conciertos/logical/subviews/0A80DB3E-5426-8E78-69A2-77A50631C862.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/04FCB4A2-8FE4-8059-1F2D-B2AA8A84DD02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/1D28020C-4B6C-223A-94D5-3A9510FC62D7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/2397C972-A14F-379B-A578-4A7412B94D90.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/309D01B8-E7D1-A2F0-6685-C3ED8904F3C7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/620504C9-0E27-4894-895D-3952061CC1EA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/77A85B77-CBA6-6B0D-F227-EFB9123D222D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/A43430EB-791B-FB7D-ABFE-B41D574BD172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/D4122506-B3F2-6241-F5CE-E02730A6D713.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/DB0DC1C8-CFBD-BAE6-EF7C-980CCF783237.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/entity/seg_0/F860649F-94BB-4C2A-8F7D-CD3000CB0CEA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/255CC803-D538-8143-6E37-5B0A9816E1A0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/3E424B44-C08C-A107-454C-B1EEF4E5D89A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/5CA97CA2-7560-B585-FF03-71D0558EB51A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/6664B777-8E81-FF89-9D87-9C61F6E9B650.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/706774A0-9863-7AD8-F80F-FBF0DD9D5017.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/73097D63-048A-5EB7-E74E-A27B34C21E59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/95556768-4D99-1C10-A146-609E73FF926B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/C7F24BF8-C08D-F0D5-B1C1-0FEC7222CDED.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/relation/seg_0/E98B8573-9660-A47C-44C9-55B48653AF37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/061CFBE6-8FD5-9CCB-BA3F-A4428696DF84.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/15A7739B-896C-09D0-BC6C-77DAE369AB01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/236D525D-D312-B527-A967-96D9161D53CD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/3624A4BD-426E-6EA2-0F26-AC2D62A7F7F4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/468CED7E-8EC5-AE7E-DCDC-CF658ECC759A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/4E0B39F9-3DBC-EDAC-B18F-8A5A644261E8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/60521561-A8E9-7C16-3F7E-FCA513A8A3D2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/68939194-FCB9-C295-A28A-873F7AECB8E6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/6D1ACF69-ED9D-E5D0-29BE-83E3DA7DDD8F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/756A978B-CD1F-ACE3-CD76-BF0DFBD1A62B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/83CA242E-6710-806F-9FA0-56659DD4FDCD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/912EC1BA-F331-8A80-A594-D75F1B66C3C8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/9CB8CF99-8DDD-7477-925B-8E3EB8D10296.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/B06EBC19-EE06-ACAE-E5C9-B62A3DA06DFB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/C1853300-B417-31BC-BA5D-ECCACD3278EB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/C43EC632-9499-9E33-6630-6C9D63E6823C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/entity/seg_0/E9C76697-AE22-4F27-46BA-A246F93447DC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/081BACF8-CC07-6BF4-F6AD-DEAF265CB400.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/114461F7-65C0-C561-DE00-08C701126C25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/259C96C5-7B14-C14A-E646-C86460AF64E0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/327FACCB-DC76-F37C-E5CC-8CC3BB7CF5C4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/370D58DD-8BA3-E346-82AB-1F0D2A21F142.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/4D1A5F32-7FD7-F57C-1C85-E8E8722CFC85.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/524FED8D-88BD-3783-14CF-DF83F8CB8303.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/612BB31A-595C-9254-2401-EA8B4A719AD5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/6B630630-37FE-9618-B42C-ED308F6A55EC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/6C328BAD-44E6-E199-075F-EB05810898CE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/73448213-9799-00C9-525F-A786B47C52B2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/752AC09B-38CC-3567-5364-D90D9560FEB6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/7623750A-7653-025A-EDA3-AC6F7287A862.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/7BF72364-E0F2-147B-8562-6C65A9491AEA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/888E6FA0-FD56-BEAD-80BD-86BB1DA30D7E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/8D152C29-1E53-58F1-AC28-A2BA6D3D6015.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/951C58E6-1E7A-BFCD-5A52-04DD6832E7C8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/B7142C4D-BDDF-F906-145C-949E407C02B5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/B78D07EF-6F1B-52AB-D5FD-99BED052B72B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/B887A9FD-73D2-82ED-D177-2ABC9867FA6F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/D6B166F6-7E25-DB88-3255-55E65E30FA62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/D6E032E5-07BA-5576-C3E1-AFAEE1C7C7F7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/relation/seg_0/EE548936-4B3F-E228-0699-D90BACCEC44D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/01A1D5F5-935C-8293-228F-28771C70D7E9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/0B7BFA49-7CF5-6F7A-BE1D-6286B5369A2D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/15CDFC2B-5336-71C8-436A-A044533AE06E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/1B318BF5-FB9C-4E55-81A8-120AC53DF0E4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/1EAF60FC-D442-62EF-3745-B45C26E67610.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/39EE9B67-CFF8-11E5-B39C-F9D70F6CF441.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/4295436F-D8D9-0A2A-B01F-2018D1832810.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/66256DB4-4033-9B5A-0A5A-169246231FA0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/6702B745-A075-C5DB-9F4A-137C51E5B186.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/67091978-C59E-844B-53D8-98D8768137BB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/73F756EC-860F-5FD4-F01E-03A6D811900E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/83E7AC88-0743-C345-9518-2FE6B6A398C2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/89F54CA2-D465-4985-3D74-8C529ABFA60E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/8B3012F7-35E9-5AEA-AC43-7C4E356CDD14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/955532DF-EC76-3AB1-2A7F-9E5C6B65BB4F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/98C44BC0-BF89-1BCF-16E1-E1F5513D6CA5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/98E604C1-B5E5-45CA-7762-3990EC2E80AB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/ABE93613-A27F-3EF1-CDD2-8A5F1443FA92.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/BE3C71F9-3A27-5175-96B2-4EDC58027D74.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/E12478EB-CCA9-8B86-0F61-45294B4DD13F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/EE17517B-4750-28B7-D853-7B21D9AF8521.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/F191024C-B066-9B81-56C0-50B8695BDE63.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/F511E663-C667-CCED-92EE-C52239B8ECF7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/F5CA2F55-F281-FDBA-EC9E-BB3E1AD9EC15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/FD474FB6-B9D8-9DEF-0ABD-0DDF0A813679.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/FF32541B-42C7-A00B-76E0-0950ABB71555.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/foreignkey/seg_0/FFB2780E-8080-572A-B124-0CA4F66DA954.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/01817313-EA13-1B2A-BC89-CA710DC750CD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/04B5617A-E2D0-702C-AF45-360C84624547.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/10D41C6A-5033-A0AA-2EBF-A2EE464D5E6C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/117F108D-0ACC-B22D-40C2-23EB6BB22EFB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/19C32471-11F4-3EC1-9391-308826018FC6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/2A84C6E3-2FEC-AEA8-6B95-91A99DE220E4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/2F702D16-A839-36B0-A018-5C85B119F34E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/6CE0A493-1C60-3168-4398-4182D71BF1FC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/722FD33D-7439-0E77-5F3F-7806A62BF444.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/853F28A0-EF3F-8A42-7239-9E122AC69883.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/8C91CAB4-CE9B-1DCF-984A-A1B7A8D8E9C1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/A24DDE58-2D9E-84C9-F84E-D402E1D9032C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/C03C9204-A5B6-3F77-CB56-621C2CD8155F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/C9FC9F40-542F-C6BD-239D-E645B8CEE4B8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/D9D25AB8-8329-D92B-6BDB-D7E5333A308A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/ED29AA6D-9C5F-ADA9-6C83-0C236BAB9295.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/EF5426CF-0F16-B528-BD7B-56E840F7E7F1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/F8655EA0-289D-9A3B-927B-425DDD57D302.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/FA274337-37FF-FB03-19FF-FF87C719D5E1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/table/seg_0/FC30640B-4EA2-BCA6-9301-E65F0EE5CE2D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Oracle SQL DataModeler 20.2/datamodeler/datamodeler/types/defaultdomains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OracleDB_Intro_DB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OracleDB_Intro_DB/.idea/OracleDB_Intro_DB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OracleDB_Intro_DB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OracleDB_Intro_DB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/subviews/340E1261-660B-65B3-978F-473EBED340F1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/logical/subviews/340E1261-660B-65B3-978F-473EBED340F1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/rdbms/PeliTicket_RDBMSSites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/PeliTicket/rdbms/PeliTicket_RDBMSSites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/dl_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/dl_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/subviews/7A653055-636D-F795-5500-6A40CA89A23A.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/logical/subviews/7A653055-636D-F795-5500-6A40CA89A23A.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/mapping/ExtendedMap_RM84CCF1F2-7184-FA06-EBDE-127237088823.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/mapping/ExtendedMap_RM84CCF1F2-7184-FA06-EBDE-127237088823.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rdbms/RedSocial_RDBMSSites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rdbms/RedSocial_RDBMSSites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/subviews/B1BBEBE8-9165-5303-5806-8C11C28B564F.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modelado de Bases de Datos/RedSocial/rel/84CCF1F2-127237088823/subviews/B1BBEBE8-9165-5303-5806-8C11C28B564F.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AaXqVT7GcxmEvC7axzru9h3Hb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="madLibs" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mad Libs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Dev Projects\Python Projects\Mad Libs\madLibs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d0ec57-334e-4792-9e8a-394e7f1bb656" name="Changes" comment="" />
+      <created>1655248861541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655248861541</updated>
+      <workItem from="1655248866502" duration="6201000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1655267412554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655267412554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mad_Libs$madLibs.coverage" NAME="madLibs Coverage Results" MODIFIED="1655266794214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
